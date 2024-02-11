@@ -2,7 +2,7 @@
 # Hi there, I'm @upl0d! 👋
 
 ## About Me
-- 🔭 I'm interested in the field of cybersecurity and vulnerability hunting.
+- 🔭 I'm interested in the field of cybersecurity and Bounty Hunter.
 - 🌱 I'm currently learning for my eJPT certification.
 - 📫 You can reach me via [Twitter](https://twitter.com/upl0d) and email [upl0d@hotmail.com](mailto:upl0d@hotmail.com).
 - 😄 Pronouns: He/Him
